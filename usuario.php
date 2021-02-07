@@ -1,6 +1,6 @@
 <?php
 
-Class Usuario {
+Class Usuario {Cuentas Bancarias
 
 	private $pdo;
 	public $msgErro = "";
